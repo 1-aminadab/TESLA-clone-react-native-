@@ -22,6 +22,15 @@ const styles = StyleSheet.create({
         width:"100%",
         resizeMode:"cover",
         position:"absolute"
+      },
+      buttonsContainer:{
+        position:"absolute",
+        bottom:50,
+        width:"100%",
+      },
+      taglineCTA:{
+        textDecorationLine:"underline",
+        paddingLeft:5
       }
 })
 
